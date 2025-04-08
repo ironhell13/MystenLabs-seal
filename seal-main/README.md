@@ -1,11 +1,9 @@
-<<<<<<< HEAD
 # Seal
 
 Seal is a decentralized secrets management (DSM) service that relies on access control policies defined and validated on [Sui](https://docs.sui.io/concepts/components). Application developers and users can use Seal to secure sensitive data at rest on decentralized storage like [Walrus](https://docs.walrus.site/index.html), or on any other onchain / offchain storage.
 
 > [!IMPORTANT]
 > Seal Beta is in Testnet. Refer to the [Seal Beta Terms of Service](TermsOfService.md).
-
 
 ### Features
 
@@ -52,7 +50,3 @@ For questions about Seal, use case discussions, or integration support, contact 
 - [Seal Design](Design.md)
 - [Using Seal](UsingSeal.md)
 - [Seal Beta Terms of Service](TermsOfService.md)
-
-# MystenLabs-seal
-Seal is a decentralized secrets management (DSM) service that relies on access control policies defined and validated on Sui. Application developers and users can use Seal to secure sensitive data at rest on decentralized storage like Walrus, or on any other onchain / offchain storage.
->>>>>>> e7680eb857cc14636b96e5503ac89d1b47320917
